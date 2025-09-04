@@ -1,0 +1,17 @@
+{"ts": 1756909443.1175413, "event": "skip", "course": {"title": "Data Science Professional Certificate", "provider": "edX", "description": "End-to-end data science: data wrangling, visualization, inference, and modeling with Python.", "skill_level": "beginner", "tags": ["data-science", "python", "pandas", "visualization", "statistics"]}, "profile_text": "Background: 2nd year it student. Interests: maths. Goals: not sure. Skills: programming:0, mathematics:3, statistics:3, ml:0, data-engineering:0, cloud:0, frontend:0, backend:0."}
+{"ts": 1756909457.3617885, "event": "skip", "course": {"title": "AWS Cloud Practitioner", "provider": "Coursera", "description": "AWS fundamentals: compute, storage, networking, and pricing models.", "skill_level": "beginner", "tags": ["aws", "cloud", "foundations", "networking"]}, "profile_text": "Background: 2nd year it student. Interests: maths. Goals: not sure. Skills: programming:0, mathematics:3, statistics:3, ml:0, data-engineering:0, cloud:0, frontend:0, backend:0."}
+{"ts": 1756909565.156171, "event": "rag_q", "question": "why aws cloud practioner is recommended to me", "context_count": 6}
+{"ts": 1756909611.0258913, "event": "rag_q", "question": "\u201cShould I learn Python or R for data science?\u201d", "context_count": 6}
+{"ts": 1756975081.514239, "event": "rag_q", "question": "\u201cShould I learn Python or R for data science?\u201d", "context_count": 6}
+{"ts": 1756975254.7983928, "event": "rag_q", "question": "\u201cShould I learn Python or R for data science?\u201d", "context_count": 6}
+{"ts": 1756975291.0572526, "event": "rag_q", "question": "\u201cWhat are the steps to become an ML engineer?\u201d", "context_count": 6}
+{"ts": 1756975384.9913788, "event": "rag_q", "question": "\u201cWhat are the steps to become an ML engineer?\u201d", "context_count": 6}
+{"ts": 1756975500.3999157, "event": "rag_q", "question": "\u201cWhat are the steps to become an ML engineer?\u201d", "context_count": 6}
+{"ts": 1756975656.8680582, "event": "rag_q", "question": "\u201cWhat are the steps to become an ML engineer?\u201d", "context_count": 6}
+{"ts": 1756975827.0579224, "event": "rag_q", "question": "\u201cWhat are the steps to become an ML engineer?\u201d", "context_count": 6}
+{"ts": 1756975900.1330943, "event": "rag_q", "question": "\u201cWhat are the steps to become an ML engineer?\u201d", "context_count": 6}
+{"ts": 1756975974.3138607, "event": "rag_q", "question": "\u201cWhat are the steps to become an ML engineer?\u201d", "context_count": 6}
+{"ts": 1756976066.1601171, "event": "rag_q", "question": "\u201cShould I learn Python or R for data science?\u201d", "context_count": 6}
+{"ts": 1756976085.0048525, "event": "skip", "course": {"title": "Data Science Professional Certificate", "provider": "edX", "description": "End-to-end data science: data wrangling, visualization, inference, and modeling with Python.", "skill_level": "beginner", "tags": ["data-science", "python", "pandas", "visualization", "statistics"]}, "profile_text": "Skills: programming:3, mathematics:3, statistics:3, ml:3, data-engineering:3, cloud:3, frontend:3, backend:3."}
+{"ts": 1756976955.576023, "event": "rag_q", "question": "\u201cShould I learn Python or R for data science?\u201d", "context_count": 6}
+{"ts": 1756979157.643781, "event": "rag_q", "question": "\u201cWhat are the steps to become an Data scientist", "context_count": 6}

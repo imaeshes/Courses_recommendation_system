@@ -1,0 +1,15 @@
+{
+  "tag_affinity": {
+    "data-science": -0.1,
+    "python": -0.1,
+    "pandas": -0.1,
+    "visualization": -0.1,
+    "statistics": -0.1,
+    "aws": -0.05,
+    "cloud": -0.05,
+    "foundations": -0.05,
+    "networking": -0.05
+  },
+  "likes": {},
+  "ratings": {}
+}
