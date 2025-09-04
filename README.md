@@ -1,6 +1,7 @@
 # 🎓 Intelligent Course & Career Path Recommender
 
 A **single-file Streamlit app** that helps students discover the right learning resources and plan their career paths intelligently.  
+![Alt text](images/1.png)
 
 ---
 
@@ -9,6 +10,8 @@ A **single-file Streamlit app** that helps students discover the right learning 
 - 🔍 Matches courses using **sentence-transformer embeddings + FAISS (cosine similarity)**
 - 💬 Provides **retrieval-augmented QA** over the course catalog
 - 🎯 **Learns from user feedback** (ratings + likes) to personalize recommendations over time
+![Alt text](images/2.png)
+
 
 ---
 
