@@ -12,6 +12,7 @@ A **single-file Streamlit app** that helps students discover the right learning 
 - 🎯 **Learns from user feedback** (ratings + likes) to personalize recommendations over time
 ![Alt text](images/2.png)
 
+[![Demo](images/1.png)](images/3.mp4)
 
 ---
 
